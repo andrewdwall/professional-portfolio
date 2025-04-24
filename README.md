@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Professional Portfolio (Draft)
 
-## Getting Started
+This is a professional portfolio website built using [Next.js](https://nextjs.org), [Tailwind CSS v4](https://tailwindcss.com), and [Framer Motion](https://www.framer.com/motion/). This project showcases my transition into the tech industry from a background in healthcare and biological sciences, highlighting my current skillset and project work.
 
-First, run the development server:
+## 🚀 Getting Started
+
+To run this project locally:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔧 Built With
 
-## Learn More
+- **Next.js 14** — App Router, dynamic routing, and server/client modules
+- **Tailwind CSS v4** — Utility-first CSS styling
+- **Framer Motion** — Smooth page and element animations
+- **TypeScript** — Type-safe components and logic
+- **Responsive Design** — Mobile-friendly and accessible layout
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📁 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Fully animated sections with responsive transitions
+- Section highlighting with active links in navigation
+- Modular React components for maintainability
+- Project cards with links to GitHub and live demos
+- Experience, education, and skillset sections
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Planned Enhancements
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- ✅ **Refine site design** - Add minimalist animated background to about section and logos to skills panels.
+- 🔄 **Contact form functionality** — Implementing a secure API route to send messages via Nodemailer
+- 🎨 **Design refinement** — More consistent spacing, hierarchy, and minimal polish
+- ⚡ **Live project demos** — Host interactive Python and JS-based project examples
+- 🖥️ **Vercel deployment** — Full deployment with environment variable management
+- 🧠 **SEO & accessibility** — Semantic HTML, meta tags, and improved ARIA support
+- 🌐 **Dark mode** — Optional styling support for system or user preference
+
+---
+
+## 🌍 Deployment
+
+The final version of this site will be deployed on [Vercel](https://vercel.com), using Git integration and environment variables for secure contact form delivery.
+
+---
+
+## 📚 Learn More
+
+- [Next.js Docs](https://nextjs.org/docs)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [Framer Motion Docs](https://www.framer.com/motion/)
+- [Deploying on Vercel](https://vercel.com/docs)
