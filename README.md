@@ -37,9 +37,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🛠️ Planned Enhancements
 
-- ✅ **Refine site design** - Add minimalist animated background to about section and logos to skills panels.
+- 🎨 **Refine site design** - Add minimalist animated background to about section and logos to skills panels.
 - 🔄 **Contact form functionality** — Implementing a secure API route to send messages via Nodemailer
-- 🎨 **Design refinement** — More consistent spacing, hierarchy, and minimal polish
 - ⚡ **Live project demos** — Host interactive Python and JS-based project examples
 - 🖥️ **Vercel deployment** — Full deployment with environment variable management
 - 🧠 **SEO & accessibility** — Semantic HTML, meta tags, and improved ARIA support
