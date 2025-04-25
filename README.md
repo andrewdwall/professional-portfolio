@@ -2,7 +2,7 @@
 
 This is a professional portfolio website built using [Next.js](https://nextjs.org), [Tailwind CSS v4](https://tailwindcss.com), and [Framer Motion](https://www.framer.com/motion/). This project showcases my transition into the tech industry from a background in healthcare and biological sciences, highlighting my current skillset and project work.
 
-## 🚀 Getting Started
+## 🚀 How to Run Current Version
 
 To run this project locally:
 
